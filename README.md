@@ -1,3 +1,4 @@
+![Banner](https://github.com/amar-gupta-au8/amar-gupta-au8/blob/master/Amar%20Gupta.png)
 ### Hi there, I'm [Amar][website] 👋
 
 ## I'm a Full Stack Web Developer, and Student!
