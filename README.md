@@ -44,7 +44,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amar-gupta-au8)](https://github.com/amar-gupta-au8)
 
 ---
-
 [website]: https://theamargupta.tech
 [twitter]: https://twitter.com/amarguptta
 [youtube]: https://www.youtube.com/channel/UCKpeap7EN2qrL93U_DNRYjQ/featured?view_as=public
