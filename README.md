@@ -40,6 +40,7 @@
 ---
 
 <img align="left" alt="Amar's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amar-gupta-au8&show_icons=true&hide_border=true" />
+[![Amar's github stats](https://github-readme-stats.vercel.app/api?username=amar-gupta-au8)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://theamargupta.tech
 [twitter]: https://twitter.com/amarguptta
