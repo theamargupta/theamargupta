@@ -1,20 +1,23 @@
 ![Banner](https://github.com/amar-gupta-au8/amar-gupta-au8/blob/master/Amar%20Gupta.png)
-### Hi there, I'm [Amar][website] 👋
+
+# Hi there, I'm [Amar][website] 👋
 
 ## I'm a Full Stack Web Developer, and Student!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to drive and play cars / bikes
 
-### Connect with me:
+---
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<details>
+  <summary><b>📊 Github Stats</b></summary>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=theamargupta&count_private=true&show_icons=true&include_all_commits=true" alt="Amar Gupta | Stats" />
+</details>
+
+
 
 <br />
 
@@ -42,11 +45,15 @@
 [youtube]: https://www.youtube.com/channel/UCKpeap7EN2qrL93U_DNRYjQ/featured?view_as=public
 [instagram]: https://www.instagram.com/amarguptta
 [linkedin]: https://linkedin.com/in/amar-gupta-2684a1157/
----
 
-<img align="left" alt="Amar's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amar-gupta-au8&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amar-gupta-au8)](https://github.com/amar-gupta-au8)
 
 ---
+
+## 🔗 Know more about me 
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)][website]
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:theamargupta.tech@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)][twitter]
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)][linkedin]
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)][instagram]
 
