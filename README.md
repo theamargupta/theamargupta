@@ -40,7 +40,7 @@
 <br />
 <br />
 
-[website]: https://theamargupta.tech
+[website]: https://www.amargupta.tech
 [twitter]: https://twitter.com/amarguptta
 [youtube]: https://www.youtube.com/channel/UCKpeap7EN2qrL93U_DNRYjQ/featured?view_as=public
 [instagram]: https://www.instagram.com/amarguptta
